@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoBase-React-App/static/css/main.20753304.css",
+    "main.js": "/CryptoBase-React-App/static/js/main.13a08b53.js",
+    "index.html": "/CryptoBase-React-App/index.html",
+    "main.20753304.css.map": "/CryptoBase-React-App/static/css/main.20753304.css.map",
+    "main.13a08b53.js.map": "/CryptoBase-React-App/static/js/main.13a08b53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20753304.css",
+    "static/js/main.13a08b53.js"
+  ]
+}
